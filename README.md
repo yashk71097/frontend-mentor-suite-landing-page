@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
--   Solution URL: [Add solution URL here](https://your-solution-url.com)
--   Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+-   Solution URL: [https://www.frontendmentor.io/solutions/suite-landing-page-3AE1oOGTr9](https://www.frontendmentor.io/solutions/suite-landing-page-3AE1oOGTr9)
+-   Live Site URL: [https://verdant-lamington-24ed7c.netlify.app](https://verdant-lamington-24ed7c.netlify.app)
 
 ## My process
 
